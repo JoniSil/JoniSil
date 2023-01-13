@@ -18,6 +18,7 @@
 ![snake gif](https://github.com/JoniSil/JoniSil/blob/output/github-contribution-grid-snake.svg)
 
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonisil&bg_color=000000&color=1ee6be&line=1e0ab2&point=1ee6be&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
